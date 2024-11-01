@@ -2,7 +2,9 @@ import React from 'react'
 
 function ContactPage() {
   return (
-    <div>ContactPage</div>
+    <div>
+      <h1>ContactPage</h1>
+    </div>
   )
 }
 
